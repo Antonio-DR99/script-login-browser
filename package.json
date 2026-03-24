@@ -14,13 +14,18 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/Antonio-DR99/script-login-browser/issues"
   },
   "homepage": "https://github.com/Antonio-DR99/script-login-browser#readme",
   "devDependencies": {
+    "@types/node": "^25.5.0",
+    "@types/readline-sync": "^1.4.8",
     "ts-node": "^10.9.2",
     "typescript": "^6.0.2"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10"
   }
 }
