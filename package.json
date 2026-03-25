@@ -20,12 +20,20 @@
   },
   "homepage": "https://github.com/Antonio-DR99/script-login-browser#readme",
   "devDependencies": {
+    "@types/commander": "^2.12.0",
     "@types/node": "^25.5.0",
+    "@types/open": "^6.1.0",
+    "@types/puppeteer": "^5.4.7",
     "@types/readline-sync": "^1.4.8",
+    "playwright": "^1.58.2",
     "ts-node": "^10.9.2",
     "typescript": "^6.0.2"
   },
   "dependencies": {
+    "comander": "^0.0.1-security",
+    "commander": "^14.0.3",
+    "open": "^11.0.0",
+    "puppeteer": "^24.40.0",
     "readline-sync": "^1.4.10"
   }
 }

@@ -1,0 +1,10 @@
+[
+  {
+    "id": "testlogin",
+    "name": "Login Test",
+    "url": "https://the-internet.herokuapp.com/login",
+    "usernameSelector": "#username",
+    "passwordSelector": "#password",
+    "submitSelector": "button[type='submit']"
+  }
+]
